@@ -72,6 +72,6 @@
 
 <div align="center">
 
-*Built with* <span style="color:red">♥</span> *in Gurgaon · Open to opportunities*
+*Built with* ![heart](https://img.shields.io/badge/-%E2%99%A5-red?style=flat-square) *in Gurgaon · Open to opportunities*
 
 </div>
