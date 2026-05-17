@@ -19,7 +19,7 @@
 
 | | |
 |---|---|
-| 🔭 **Building** | Cloud-native apps on GKE — CI/CD pipelines & automation at Wipro |
+| 🔭 **Building** | Cloud-native apps on GKE — CI/CD pipelines & automation at Kyndryl |
 | 🌱 **Learning** | Advanced Kubernetes, Terraform & AI-powered developer tools |
 | 👯 **Collaborating on** | DevOps projects, GCP infrastructure, open-source tooling |
 | 💬 **Ask me about** | GCP · Kubernetes · GitHub Actions · Cloud SQL · BigQuery · DevOps |
