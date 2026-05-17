@@ -1,16 +1,10 @@
 <div align="center">
 
-```
-// hello, world
-```
 
 # Bikram Singh
 
 **DevOps Engineer · GCP & Kubernetes Specialist · Wipro**
 
-```bash
-$ ship --fast --reliable --automated
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikram-singh-8026aa3b)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bikram23march)
@@ -21,7 +15,7 @@ $ ship --fast --reliable --automated
 
 ---
 
-## `// about me`
+## `// About me`
 
 | | |
 |---|---|
@@ -33,7 +27,7 @@ $ ship --fast --reliable --automated
 
 ---
 
-## `// tech stack`
+## `// Tech stack`
 
 **Cloud & Infrastructure**
 
@@ -61,7 +55,7 @@ $ ship --fast --reliable --automated
 
 ---
 
-## `// github stats`
+## `// Github Stats`
 
 <div align="center">
 
