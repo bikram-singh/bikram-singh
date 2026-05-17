@@ -3,7 +3,7 @@
 
 # Bikram Singh
 
-**DevOps Engineer · GCP & Kubernetes Specialist · Wipro**
+**DevOps Engineer · GCP & GKE Specialist · Kyndryl**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikram-singh-8026aa3b)
@@ -15,7 +15,7 @@
 
 ---
 
-## `// About me`
+## `About me`
 
 | | |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## `// Tech stack`
+## `Tech stack`
 
 **Cloud & Infrastructure**
 
@@ -55,7 +55,7 @@
 
 ---
 
-## `// Github Stats`
+## `Github Stats`
 
 <div align="center">
 
@@ -72,6 +72,6 @@
 
 <div align="center">
 
-*built with ♥ in delhi · open to opportunities*
+*Built with ♥ in Gurgaon · Open to opportunities*
 
 </div>
