@@ -72,6 +72,6 @@
 
 <div align="center">
 
-*Built with ♥ in Gurgaon · Open to opportunities*
+*Built with* <span style="color:red">♥</span> *in Gurgaon · Open to opportunities*
 
 </div>
