@@ -15,7 +15,7 @@
 
 ---
 
-## `About me`
+## `About Me`
 
 | | |
 |---|---|
@@ -27,7 +27,7 @@
 
 ---
 
-## `Tech stack`
+## `Tech Stack`
 
 **Cloud & Infrastructure**
 
