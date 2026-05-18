@@ -22,7 +22,7 @@
 | 🔭 **Building** | Cloud-native apps on GKE — CI/CD pipelines & automation |
 | 🌱 **Learning** | Advanced Kubernetes, Terraform & AI-powered developer tools |
 | 👯 **Collaborating on** | DevOps projects, GCP infrastructure, open-source tooling |
-| 💬 **Ask me about** | GCP · Kubernetes · GitHub Actions · Cloud SQL · BigQuery · DevOps |
+| 💬 **Ask me about** | GCP · Kubernetes · GitHub Actions · Cloud SQL · DevOps |
 | ⚡ **Fun fact** | Automates work so hard, almost automated himself out of a job 🤖 |
 
 ---
