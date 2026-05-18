@@ -3,7 +3,7 @@
 
 # Bikram Singh
 
-**DevOps Engineer · GCP || Terraform || GKE  · Kyndryl**
+**DevOps Engineer · GCP || Terraform || GKE || GitHub Actions · Wipro**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikram-singh-8026aa3b)
@@ -19,7 +19,7 @@
 
 | | |
 |---|---|
-| 🔭 **Building** | Cloud-native apps on GKE — CI/CD pipelines & automation at Kyndryl |
+| 🔭 **Building** | Cloud-native apps on GKE — CI/CD pipelines & automation |
 | 🌱 **Learning** | Advanced Kubernetes, Terraform & AI-powered developer tools |
 | 👯 **Collaborating on** | DevOps projects, GCP infrastructure, open-source tooling |
 | 💬 **Ask me about** | GCP · Kubernetes · GitHub Actions · Cloud SQL · BigQuery · DevOps |
