@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/39D353/bikram-singh" alt="Bikram's GitHub Contribution Chart (1 Year)" />
+<img src="https://ghchart.rshah.org/39D353/bikram-singh" alt="Bikram's GitHub Contribution Chart (1 Year)" style="border-radius:8px; border: 1px solid #30363d;" />
 
 </div>
 
@@ -87,16 +87,6 @@
 | 🔀 Pull Requests | **7** |
 | 🤝 Contributed To | **18 repos** |
 | 🌐 Languages Used | **Python · JS · HCL · Dockerfile** |
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake.svg" alt="github contribution snake" />
 
 </div>
 
