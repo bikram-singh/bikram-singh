@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bikram-singh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/bikram-singh)
+<img src="https://github-trophies.vercel.app/?username=bikram-singh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="bikram-singh trophies" />
 
 </div>
 
@@ -85,26 +85,24 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff&custom_title=Bikram%27s%20Contribution%20Graph%20(Last%2030%20Days)" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff&custom_title=Bikram%27s%20GitHub%20Contribution%20Graph" />
 
 </div>
 
 <div align="center">
 
-| Metric | Count |
-|--------|-------|
-| 📦 Total Commits | 807 |
-| 🔀 Pull Requests | 7 |
-| 🤝 Contributed To | 18 repos |
-| 🌐 Languages Used | Python · JS · HCL · Dockerfile |
+| <span style="color:#39D353; font-weight:bold;">📌 Metric</span> | <span style="color:#39D353; font-weight:bold;">🔢 Count</span> |
+|:---:|:---:|
+| 📦 Total Commits | **807** |
+| 🔀 Pull Requests | **7** |
+| 🤝 Contributed To | **18 repos** |
+| 🌐 Languages Used | **Python · JS · HCL · Dockerfile** |
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
-> ⚠️ Snake will appear here once the GitHub Action runs successfully (enable **Read & Write permissions** under Settings → Actions → General)
 
 <div align="center">
 
