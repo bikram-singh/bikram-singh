@@ -2,7 +2,7 @@
 
 # Bikram Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=GCP+DevOps+Engineer+%F0%9F%9A%80;GCP+%7C%7C+Terraform+%7C%7C+GKE+%7C%7C+GitHub+Actions;Building+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Open+to+Opportunities+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=GCP+Cloud+DevOps+Engineer+%F0%9F%9A%80;GCP+%7C%7C+Terraform+%7C%7C+GKE+%7C%7C+GitHub+Actions;Building+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Open+to+Opportunities+%F0%9F%8C%8F" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikram-singh-8026aa3b)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bikram23march)
