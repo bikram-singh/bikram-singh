@@ -60,22 +60,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=bikram-singh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="bikram-singh trophies" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=bikram-singh&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bikram-singh&theme=chartreuse-dark&hide_border=true&layout=compact&count_private=true" />
+<img height="195" width="49%" src="https://github-stats-extended.vercel.app/api?username=bikram-singh&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
+<img height="195" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bikram-singh&theme=chartreuse-dark&hide_border=true&layout=compact&count_private=true" />
 
 </div>
 
@@ -85,7 +75,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff&custom_title=Bikram%27s%20GitHub%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff&days=365&custom_title=Bikram%27s%20GitHub%20Contribution%20Graph%20(Last%201%20Year)" />
 
 </div>
 
