@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff&days=365&custom_title=Bikram%27s%20GitHub%20Contribution%20Graph%20(Last%201%20Year)" />
+<img width="100%" src="https://ghchart.rshah.org/39D353/bikram-singh" alt="Bikram's GitHub Contribution Chart (1 Year)" />
 
 </div>
 
@@ -96,11 +96,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake" />
 
 </div>
 
