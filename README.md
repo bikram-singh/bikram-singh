@@ -62,9 +62,6 @@
 <img height="160" src="https://github-readme-stats.shion.dev/api?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" />
 <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&layout=compact&count_private=false" />
 
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com/?user=bikram-singh&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
