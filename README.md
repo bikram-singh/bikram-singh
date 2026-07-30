@@ -56,9 +56,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&layout=compact&count_private=true" />
-<br/>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&show_icons=true&count_private=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&layout=compact&count_private=true" />
+<br/><br/>
 <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=github-compact&hide_border=true&area=true" />
 
 </div>
