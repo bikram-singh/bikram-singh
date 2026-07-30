@@ -1,10 +1,7 @@
 <div align="center">
 
-
 # Bikram Singh
-
-**DevOps Engineer · GCP || Terraform || GKE || GitHub Actions · Kyndryl**
-
+**DevOps Engineer · GCP || Terraform || GKE || GitHub Actions · Wipro**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bikram-singh-8026aa3b)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bikram23march)
@@ -59,12 +56,10 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&show_icons=true&include_all_commits=false&count_private=false" />
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&layout=compact&count_private=false" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram-singh&theme=github_dark_dimmed&hide_border=true&layout=compact&count_private=true" />
 <br/>
-
-<img width="60%" src="https://streak-stats.demolab.com/?user=bikram-singh&theme=github-dark-blue&hide_border=true" />
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
