@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bikram-singh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/bikram-singh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bikram-singh&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/bikram-singh)
 
 </div>
 
@@ -77,17 +77,42 @@
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=bikram-singh&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bikram-singh&theme=chartreuse-dark&hide_border=true&layout=compact&count_private=true" />
 
-<br/>
+</div>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff" />
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-singh&theme=react-dark&hide_border=true&area=true&color=39D353&line=39D353&point=ffffff&custom_title=Bikram%27s%20Contribution%20Graph%20(Last%2030%20Days)" />
+
+</div>
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 📦 Total Commits | 807 |
+| 🔀 Pull Requests | 7 |
+| 🤝 Contributed To | 18 repos |
+| 🌐 Languages Used | Python · JS · HCL · Dockerfile |
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
+> ⚠️ Snake will appear here once the GitHub Action runs successfully (enable **Read & Write permissions** under Settings → Actions → General)
+
 <div align="center">
 
-![snake gif](https://github.com/bikram-singh/bikram-singh/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bikram-singh/bikram-singh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
